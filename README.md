@@ -18,7 +18,7 @@
 ## 🚧 Ongoing Projects
 
 - 🔧 **Madcap1874** — DEMODAY A bilingual website for a historic sailing association (Django, HTML, CSS, PostegreSQL)
- [ -- Madcap1874 --](https://madcap1874.pythonanywhere.com/) 
+- [ -- Madcap1874 --](https://madcap1874.pythonanywhere.com/) 
 - 🌐 **BTC Énergies** — STAGE Full website redesign for a sustainable energy startup (Vue.js + Django stack, TAILWIND, GSAP)
 - [ -- BTC Energies --](https://tangerine-babka-89b76d.netlify.app/)  Work in progress
 - 📊 **Loto Analyzer** — A smart lottery stats tool with filters and number prediction (Python, pandas, matplotlib)
